@@ -5,7 +5,7 @@
 # [**Profissão: Cientista de Dados**]
 ### [**Projeto #02**](https://github.com/marciolws/PREVISAO_DE_RENDA/blob/main/Previsao_de_renda.ipynb) | [Previsão de renda](/)
 
-**Por:** [Marcio da Silva](https://www.linkedin.com/in/marcio-da-silva-59b4266b/)<br>
+**Por:** [Marcio da Silva](https://www.linkedin.com/in/marcio-d-silva/)<br>
 <!-- **Data:** 17 de agosto de 2024.<br> -->
 <!-- **Última atualização:** 17 de agosto de 2024. -->
 
